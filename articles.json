@@ -1,0 +1,178 @@
+[
+  {
+    "id": "analyse-komplexitaet",
+    "title": "Analysefähigkeit und Komplexitätsreduktion",
+    "category": "Analysefähigkeit und Komplexitätsreduktion",
+    "tags": [
+      "Denken",
+      "Komplexität",
+      "Visualisierung",
+      "Analytik",
+      "Training"
+    ],
+    "intro": "Unsere Denkkapazität ist begrenzt – wie können wir trotzdem Komplexität besser bewältigen?",
+    "sections": [
+      {
+        "type": "tip",
+        "title": "Hinweise & Tipps",
+        "content": [
+          "In Besprechungen immer mitschreiben.",
+          "Struktur in Konzepten erhöhen – z. B. mit Ishikawa-Diagramm.",
+          "Plus/Minus-Argumente aufschreiben und diskutieren.",
+          "Ideen-Tool oder Notizkladden nutzen.",
+          "Gedanken aufzeichnen, z. B. Flip-Chart, Symbole, Farben."
+        ]
+      },
+      {
+        "type": "recommendation",
+        "title": "Empfehlung 1: Differenzierter Denken – Komplexität visualisieren",
+        "text": "Denkspeicher ist begrenzt – nutzen Sie Visualisierungen zur Entlastung. Arbeiten Sie mit mehreren Wahrnehmungskanälen."
+      },
+      {
+        "type": "recommendation",
+        "title": "Empfehlung 2: Analysefähigkeit praktisch trainieren",
+        "text": "Blockieren Sie im Kalender Analysezeiten, üben Sie mit Zahlen und holen Sie Feedback ein."
+      },
+      {
+        "type": "recommendation",
+        "title": "Empfehlung 3: Schneller lesen!",
+        "text": "Nutzen Sie die SQ3R-Methode für effizienteres Lesen. Zielgerichtetes, selektives Lesen erhöht die Informationsaufnahme."
+      }
+    ],
+    "quiz": {
+      "available": true,
+      "questions": [
+        {
+          "question": "Wie viele 'Chunks' kann unser Gehirn gleichzeitig speichern?",
+          "options": [
+            "3–5",
+            "7–10",
+            "10–12"
+          ],
+          "correct_answer": "7–10"
+        },
+        {
+          "question": "Welche Methode wird empfohlen, um schneller zu lesen?",
+          "options": [
+            "KVP",
+            "SQ3R",
+            "Loci"
+          ],
+          "correct_answer": "SQ3R"
+        }
+      ]
+    },
+    "media": {
+      "video": "https://www.youtube.com/watch?v=example123",
+      "images": [],
+      "links": [
+        {
+          "label": "Mindmapping",
+          "url": "https://www.example.com/mindmapping"
+        }
+      ]
+    },
+    "literature": [
+      {
+        "title": "Die Logik des Misslingens",
+        "author": "Dörner, Dietrich",
+        "publisher": "Goldmann"
+      },
+      {
+        "title": "Schnelles Denken, langsames Denken",
+        "author": "Kahnemann, Daniel",
+        "publisher": "Penguin"
+      }
+    ],
+    "tip_of_the_day": true,
+    "points": 10
+  },
+  {
+    "id": "arbeitsorganisation",
+    "title": "Arbeitsorganisation",
+    "category": "Arbeitsorganisation",
+    "tags": [
+      "Zeitmanagement",
+      "Selbstorganisation",
+      "Stress",
+      "Produktivität"
+    ],
+    "intro": "Wie Sie mit Selbstmanagement, Struktur und bewusster Planung mehr Ruhe und Produktivität erreichen.",
+    "sections": [
+      {
+        "type": "tip",
+        "title": "Hinweise & Tipps",
+        "content": [
+          "Die Arbeit zu einer konstanten Zeit beginnen.",
+          "Aufgaben und Termine immer aufschreiben.",
+          "Den Tag in feste Blöcke einteilen.",
+          "60:40-Regel beachten: 60 % planen, 40 % Puffer.",
+          "Eisenhower-Prinzip zur Priorisierung nutzen.",
+          "Tagesabschluss mit Rückblick und Planung."
+        ]
+      },
+      {
+        "type": "recommendation",
+        "title": "Empfehlung 1: Regeln des Selbstmanagements beachten!",
+        "text": "Nutzen Sie bewährte Zeitmanagement-Instrumente wie Tagesplanung, Pufferzeiten und Kontaktplanung."
+      },
+      {
+        "type": "recommendation",
+        "title": "Empfehlung 2: Wissen Sie, wer Sie sind und was Sie wollen?",
+        "text": "Zeitmanagement beginnt bei Zielen – prüfen Sie, ob Ihre Arbeit zu Ihren Werten und Zielen passt."
+      },
+      {
+        "type": "recommendation",
+        "title": "Empfehlung 3: Motivieren Sie sich auch selbst?",
+        "text": "Starten Sie bewusst in den Tag, planen Sie Belohnungen und persönliche Zeit mit ein."
+      }
+    ],
+    "quiz": {
+      "available": true,
+      "questions": [
+        {
+          "question": "Wie viel Prozent der Tageszeit sollten laut 60:40-Regel als Pufferzeit eingeplant werden?",
+          "options": [
+            "10 %",
+            "20 %",
+            "40 %"
+          ],
+          "correct_answer": "40 %"
+        },
+        {
+          "question": "Was bedeutet das Eisenhower-Prinzip?",
+          "options": [
+            "Alle Aufgaben erledigen, sobald sie kommen.",
+            "Aufgaben in wichtig/dringlich kategorisieren.",
+            "Post zuerst lesen, dann planen."
+          ],
+          "correct_answer": "Aufgaben in wichtig/dringlich kategorisieren."
+        }
+      ]
+    },
+    "media": {
+      "video": "https://www.youtube.com/watch?v=example456",
+      "images": [],
+      "links": [
+        {
+          "label": "Effizienz am Arbeitsplatz steigern",
+          "url": "https://www.example.com/effizienz"
+        }
+      ]
+    },
+    "literature": [
+      {
+        "title": "Getting Things Done",
+        "author": "David Allen",
+        "publisher": "Penguin"
+      },
+      {
+        "title": "Das neue 1x1 des Zeitmanagement",
+        "author": "Lothar J. Seiwert",
+        "publisher": "Gräfe und Unzer"
+      }
+    ],
+    "tip_of_the_day": false,
+    "points": 10
+  }
+]

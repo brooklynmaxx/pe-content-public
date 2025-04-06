@@ -1,0 +1,18 @@
+[
+  {
+    "id": "arbeitsorganisation",
+    "title": "Arbeitsorganisation",
+    "intro": "Hinweise & Tipps",
+    "content": "Empfehlung 1: Regeln des Selbstmanagements beachten!\n\nViele wissen vielleicht genau, worauf es im Selbstmanagement ankommt, aber setzen dennoch nicht um, was uns die Zeitplanungs-Gurus empfehlen. Vielleicht ist jetzt der Zeitpunkt gekommen, einmal ein oder zwei Instrumente aufzugreifen, die die selbstdisziplinierten Mitmenschen schon erfolgreich einsetzen.\n\nEmpfehlung 2: Wissen Sie, wer Sie sind und was Sie wollen?\n\nZeitmanagement ist das Management von Zielen. Viele von uns verplempern den größeren Teil der Zeit mit Dingen, die uns gar nicht wichtig sind. Vielleicht wird die Unzufriedenheit mit Ihrem Zeitmanagement geringer, wenn Sie genauer wissen, worauf Sie Ihre Kraft fokussieren.\n\nEmpfehlung 3: Motivieren Sie sich auch selbst?\n\nGeben Sie sich Zeit zur positiven Besinnung. Planen Sie Belohnungen bewusst ein.\n\nEmpfehlung 4: Alles aufschreiben und mit einem Tagesplan arbeiten!\n\nWer Ziele ausformuliert, sortiert sie im Kopf. Ein schriftlicher Tagesplan hilft enorm.\n\nEmpfehlung 5: Mit Wiedervorlagen und Kontrollzeitpunkten arbeiten!\n\nVergeben Sie Aufgaben nie ohne Wiedervorlage. Nutzen Sie Kalender und Nachhak-Termine.\n\nEmpfehlung 6: Grundordnung halten!\n\nKeine Zettelwirtschaft. Ordnungssysteme helfen, den Überblick zu behalten.",
+    "category": "Arbeitsorganisation",
+    "tip_of_the_day": true
+  },
+  {
+    "id": "empathie",
+    "title": "Empathie",
+    "intro": "Empathie hilft beim Führen.",
+    "content": "Empathie bedeutet, sich in andere hineinzuversetzen und ihre Perspektive nachzuvollziehen. Führungskräfte profitieren davon, weil sie dadurch besser kommunizieren, Konflikte früh erkennen und konstruktiver lösen können. Einfühlsames Zuhören, das Ernstnehmen von Emotionen und echtes Interesse schaffen Vertrauen.",
+    "category": "Empathie",
+    "tip_of_the_day": false
+  }
+]

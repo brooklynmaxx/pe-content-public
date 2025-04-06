@@ -3,6 +3,7 @@
     "id": "arbeitsorganisation",
     "title": "Arbeitsorganisation",
     "intro": "So strukturieren Sie Ihren Arbeitsalltag effektiv.",
+    "content": "Eine gute Arbeitsorganisation beginnt mit der Priorisierung von Aufgaben. Verwenden Sie Tools wie Eisenhower-Matrix oder Kanban, um Ihre täglichen Aufgaben zu strukturieren. Zudem helfen feste Zeitblöcke und realistische Ziele, effizienter zu arbeiten.",
     "category": "Arbeitsorganisation",
     "tip_of_the_day": true
   },
@@ -10,6 +11,7 @@
     "id": "empathie",
     "title": "Empathie",
     "intro": "Bessere Führung durch Einfühlungsvermögen.",
+    "content": "Empathie ist eine zentrale Führungsqualität. Sie ermöglicht es, emotionale Signale zu deuten und darauf einzugehen. In Gesprächen hilft aktives Zuhören dabei, Vertrauen zu schaffen. Versuchen Sie, auch die Perspektive Ihrer Mitarbeitenden einzunehmen.",
     "category": "Empathie",
     "tip_of_the_day": false
   },
@@ -17,6 +19,7 @@
     "id": "analysefaehigkeit",
     "title": "Analysefähigkeit",
     "intro": "Lernen Sie, komplexe Zusammenhänge besser zu durchdringen.",
+    "content": "Analytisches Denken hilft, Muster in Informationen zu erkennen und fundierte Entscheidungen zu treffen. Nutzen Sie Methoden wie SWOT-Analysen oder Ursache-Wirkungs-Diagramme, um Probleme systematisch zu untersuchen.",
     "category": "Analysefähigkeit und Komplexitätsreduktion",
     "tip_of_the_day": false
   }
